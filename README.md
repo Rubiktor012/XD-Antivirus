@@ -1,2 +1,2 @@
-# XD-Antivirus
-A basic Antivirus made Asing DEV-C++
+This antiviurs is, again, not for a main virus blocker
+KAY BYE
